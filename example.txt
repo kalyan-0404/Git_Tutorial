@@ -1,0 +1,2 @@
+Hii, This is an Example text file.
+I am going to study about git & git hub.
